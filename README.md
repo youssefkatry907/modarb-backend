@@ -1,9 +1,1 @@
----
-title: modarb
-colorFrom: yellow
-colorTo: red
-sdk: docker
-pinned: false
-port: 7860
----
-
+The app tackles common fitness challenges by delivering personalized workout and nutrition plans, real-time feedback, and safe exercise options tailored to users with specific health needs. It educates users on proper exercise techniques, provides real-time corrections, and tracks progress with comprehensive tools. This user-friendly mobile application enhances motivation, consistency, and overall well-being, leveraging computer vision and machine learning to offer tailored guidance and effective fitness management.
